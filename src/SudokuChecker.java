@@ -1,3 +1,10 @@
+/**
+ * Author: Roshan C Subudhi
+ * USC, Columbia
+ * Ph: 803-743-2899
+ * 
+ * This class validates the correctness of a Sudoku Solution.
+ */
 
 public class SudokuChecker {
 
